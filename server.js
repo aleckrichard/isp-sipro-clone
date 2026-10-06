@@ -69,7 +69,6 @@ app.get('/default', (req, res) => {
                 name="id_documento"
                 maxlength="100"
                 value="${idHash}"
-                placeholder="Ingrese código de verificación"
                 required>
 
             <br>
